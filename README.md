@@ -10,7 +10,7 @@ Description__:
             
 How__to__excecute:
                 1.First you have to save all file in one folder then you have to give path of "haarcascade_frontalface_default" in line 3 of facerec and line 5 of facerec1.
-                2.Then change path of folder "face" in line 31 in facerec.Path must be of folder face in your system.
-                3.Then execute it by typing "python face.py" in your environment it will execute and you will see a gui that has entry with label as name and with two button.
-                4.Enter your name in that entry then click "face" button and you will see label appear as  "model complete"  then click "unlock" button and you will see your face has been recognize with rectangle draw on face and name that you have input in entry on top-left corner of rectangle.
+                3.Then create face folder in same folder or anywhere you like and give path of folder "face" in line 31 in facerec.Path must be of folder face in your system.
+                5.Then execute it by typing "python face.py" in your environment it will execute and you will see a gui that has entry with label as name and with two button.
+                6.Enter your name in that entry then click "face" button and you will see label appear as  "model complete"  then click "unlock" button and you will see your face has been recognize with rectangle draw on face and name that you have input in entry on top-left corner of rectangle.
             
