@@ -1,5 +1,5 @@
 # facial-recognition
-Facial recognition
+Facial recognition using python
 
 Description__:
             @As we all know facial recognition has become a part of our life that has been include in every smart phone has basic requirement as to recognize the user of that product.
